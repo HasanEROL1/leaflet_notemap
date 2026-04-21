@@ -7,5 +7,4 @@
 <li>css</li>
 <li>Yardımcı Kütüphane: Leaflet link:https://leafletjs.com/</li>
 
-https://github.com/user-attachments/assets/b918ec62-e6cb-463d-b216-a50f0f7232be
-
+![demo](notemap.gif)
